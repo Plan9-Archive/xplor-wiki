@@ -1,4 +1,4 @@
 == Xplor ==
 
 
-{{http://smgl.fr.eu.org/xplor.png|}}
+{{http://www.bitbucket.org/mpl/xplor/raw/9844f21704b8/xplor.png|}}
